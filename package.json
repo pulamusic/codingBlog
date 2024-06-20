@@ -1,0 +1,11 @@
+{
+  "name": "codingblog",
+  "version": "0.1.0",
+  "description": "a blog about learning to code later in life",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jim Carroll",
+  "license": "CC-BY-NC-4.0"
+}

@@ -1,0 +1,32 @@
+{
+  "stories": [
+    {
+      "title": "Media Queries",
+      "created": 1718919419122,
+      "submissionHistory": {},
+      "versions": [
+        "36e225be-14b8-49b7-b58b-ae81e47024cc"
+      ],
+      "id": "4606bab1-7b99-4ef6-a1df-1c19fdf99e34"
+    }
+  ],
+  "versions": [
+    {
+      "storyId": "4606bab1-7b99-4ef6-a1df-1c19fdf99e34",
+      "name": "draft",
+      "wordCount": 0,
+      "created": 1718919419129,
+      "statistics": {},
+      "id": "36e225be-14b8-49b7-b58b-ae81e47024cc"
+    }
+  ],
+  "backups": [
+    {
+      "timestamp": 1718919375329,
+      "localPath": "/Users/jamesgcarroll/Documents/BabelWorkspaceBackups/babel-2024-06-20.backup.zip",
+      "cloudProviders": [],
+      "id": "980874c4-1133-4a2e-b882-4d0f449c0219"
+    }
+  ],
+  "activity": []
+}
